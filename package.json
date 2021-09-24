@@ -1,0 +1,30 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuandevv/oderfood.git"
+  },
+  "keywords": [
+    "food",
+    "oder"
+  ],
+  "author": "thuandevv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuandevv/oderfood/issues"
+  },
+  "homepage": "https://github.com/thuandevv/oderfood#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
